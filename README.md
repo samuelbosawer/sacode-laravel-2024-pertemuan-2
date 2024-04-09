@@ -5,3 +5,8 @@ Belajar Laravel
 ```
 composer create-project laravel/laravel example-app
 ```
+
+## Jalan Laravel 
+```
+php artisan serve
+```
